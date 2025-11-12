@@ -1,0 +1,12 @@
+REPORTE DE RESULTADOS - Banca
+Fecha: 2025-11-12 13:47:54.999792
+======================================================================
+
+MEJOR CONFIGURACIÓN HAC:
+Config: average_2
+Silhouette: 0.2790
+
+MEJOR CONFIGURACIÓN K-MEANS:
+k: 4
+Silhouette: 0.1330
+Inercia: 9040.38

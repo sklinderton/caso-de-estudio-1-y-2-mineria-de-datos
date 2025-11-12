@@ -1,0 +1,12 @@
+REPORTE DE RESULTADOS - Hotel
+Fecha: 2025-11-12 13:48:27.465836
+======================================================================
+
+MEJOR CONFIGURACIÓN HAC:
+Config: complete_2
+Silhouette: 0.7256
+
+MEJOR CONFIGURACIÓN K-MEANS:
+k: 5
+Silhouette: 0.1933
+Inercia: 5637.45

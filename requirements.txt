@@ -1,8 +1,8 @@
-# Requisitos para reproducir el estudio de caso
-pandas==2.2.2
-numpy==1.26.4
-matplotlib==3.8.4
-seaborn==0.13.2
-scikit-learn==1.4.2
-scipy==1.11.4
-umap-learn==0.5.6
+# Requisitos principales (Windows-friendly)
+# Probados/soportados en Python 3.13 con wheels binarios
+numpy>=2.1,<3
+pandas>=2.2.3,<3
+scipy>=1.14.1,<2
+matplotlib>=3.10,<3.11
+seaborn>=0.13.2,<0.14
+scikit-learn>=1.6,<1.8
